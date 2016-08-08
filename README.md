@@ -1,6 +1,6 @@
 # Incremental housing
 
-This repository contains 4 projects authored, developed, built and published by [Elemental](http://www.elementalchile.cl) as "open-source". Although the terms of the license are not defined, we believe it means that we are free to republish it here. The abstract and image below are copied from the offical [project page](http://www.elementalchile.cl/en/projects/abc-of-incremental-housing/).
+This repository contains 4 projects authored, developed, built and published by [Elemental](http://www.elementalchile.cl) as "open-source". Although the terms of the license are not defined, we believe it means that we are free to republish it here, which is made only to make sure this preciosu resource will not vanish from the web if the original location disappears. The abstract and image below are copied from the offical [project page](http://www.elementalchile.cl/en/projects/abc-of-incremental-housing/).
 
 ![img1](http://www.elementalchile.cl/wp-content/uploads/2016/04/HOUSING-FACSIMIL_PROYECTO_VV2.jpg)
 
